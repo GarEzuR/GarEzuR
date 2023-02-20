@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garezur&show_icons=true&theme=radical&title_color=0000cc&text_color=cccccc&icon_color=0000cc&bg_color=000000)
 <div align="center">
         <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=0000CC"></a>
         <img alt="Javascript" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=0000CC"></a>
