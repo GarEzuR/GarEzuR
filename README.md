@@ -1,6 +1,6 @@
 <p style="color:#ccc;font-size:40px;">Konta</p>
 <p align="center">
-        <img alt="Javascript" src="https://img.shields.io/badge/-FaceBook-black?style=for-the-badge&logo=Facebook&logoColor=0000CC">
+        <a href="https://discord.gg/R5sQXfxXwu"><img src="https://img.shields.io/discord/937056583035289700?style=for-the-badge&logo=discord&labelColor=000000&logoColor=0000CC&color=000000&label=Discord"/></a>
         <a href="https://www.twitch.tv/garezur"><img alt="Javascript" src="https://img.shields.io/badge/-Twitch-black?style=for-the-badge&logo=Twitch&logoColor=0000CC"></a>
         <a href="https://instagram.com/she7ani"><img alt="Javascript" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=0000CC"></a>
         <a href="https://www.tiktok.com/@garezur"><img alt="Javascript" src="https://img.shields.io/badge/-TikTok-black?style=for-the-badge&logo=TikTok&logoColor=0000CC"></a>
@@ -17,7 +17,6 @@
         <img alt="Javascript" src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=Lua&logoColor=0000CC">
         <img alt="Javascript" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=0000CC">
         <img alt="Javascript" src="https://img.shields.io/badge/-Visrual Studio Code-black?style=for-the-badge&logo=VisualStudioCode&logoColor=0000CC">
-        <img src="https://img.shields.io/discord/937056583035289700?style=for-the-badge&logo=discord&labelColor=000000&logoColor=0000CC&color=000000&label=Discord"/>
 </p>
 <p style="color:#ccc;font-size:40px;">Statystyki</p>
 <p align="center">
