@@ -1,10 +1,11 @@
-### Konta
 <div align="center">
         <img alt="Javascript" src="https://img.shields.io/badge/-FaceBook-black?style=for-the-badge&logo=Facebook&logoColor=0000CC">
         <a href="https://www.twitch.tv/garezur"><img alt="Javascript" src="https://img.shields.io/badge/-Twitch-black?style=for-the-badge&logo=Twitch&logoColor=0000CC"></a>
         <a href="https://instagram.com/she7ani"><img alt="Javascript" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=0000CC"></a>
         <a href="https://www.tiktok.com/@garezur"><img alt="Javascript" src="https://img.shields.io/badge/-TikTok-black?style=for-the-badge&logo=TikTok&logoColor=0000CC"></a>
-        <a href="https://forum.cfx.re/u/shetani"><img alt="Javascript" src="https://img.shields.io/badge/-CFX-black?style=for-the-badge&logo=cfx.re&logoColor=0000CC"></a>
+        <a href="https://wued.gg"><img alt="Javascript" src="https://img.shields.io/badge/-WueD.gg-black?style=for-the-badge&logoColor=0000CC"></a>
+        <a href="https://forum.cfx.re/u/shetani"><img alt="Javascript" src="https://img.shields.io/badge/-CFX-black?style=for-the-badge&logoColor=0000CC"></a>
+        <a href="https://wued.tebex.io"><img alt="Javascript" src="https://img.shields.io/badge/-Tebex-black?style=for-the-badge&Logo=tebex&logoColor=0000CC"></a>
 </div>
 <div align="center">
         <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=Javascript&logoColor=0000CC">
